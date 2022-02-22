@@ -12,9 +12,9 @@
 ### Built With
 
 * [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
 * [Omdb API]((http://www.omdbapi.com/))
 * [SemanticUI](https://react.semantic-ui.com/)
-* [Redux](https://redux.js.org/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -28,6 +28,10 @@
 2. Install NPM packages
    ```sh
    npm install
+   ```
+3. npm start
+   ```sh
+   npm start
    ```
 
 
