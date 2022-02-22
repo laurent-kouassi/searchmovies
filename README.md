@@ -2,7 +2,7 @@
   <h3 align="center">Search Movie</h3>
 
   <p align="center">
-    Movie discovery app made using reactjs
+    Movie search app made using reactjs
     <br />
     ·
     <a href="https://github.com/laurent-kouassi/searchmovies/issues">Request Feature</a>
