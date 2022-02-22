@@ -23,7 +23,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/karantondare/react-movie-search-app
+   git clone https://github.com/laurent-kouassi/searchmovies
    ```
 2. Install NPM packages
    ```sh
