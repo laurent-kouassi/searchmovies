@@ -13,6 +13,8 @@
 
 * [React](https://reactjs.org/)
 * [Omdb API]((http://www.omdbapi.com/))
+* [SemanticUI](https://react.semantic-ui.com/)
+* [Redux](https://redux.js.org/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
