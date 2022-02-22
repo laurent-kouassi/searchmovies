@@ -23,7 +23,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/laurent-kouassi/searchmovies
+   git clone https://github.com/laurent-kouassi/searchmovies.git
    ```
 2. Install NPM packages
    ```sh
