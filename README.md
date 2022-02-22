@@ -40,5 +40,3 @@
 ## Contact
 
 Laurent Kouassi - klaurent911@gmail.com
-
-# searchmovies
