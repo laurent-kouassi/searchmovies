@@ -1,5 +1,5 @@
 /* eslint-disable */
-const omdbapi = "http://www.omdbapi.com/?i=tt3896198&apikey=3f5da8e&";
+const omdbapi = "https://www.omdbapi.com/?i=tt3896198&apikey=3f5da8e&";
 
 const env = omdbapi;
 
